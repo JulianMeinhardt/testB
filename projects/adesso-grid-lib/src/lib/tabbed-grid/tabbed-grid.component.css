@@ -1,0 +1,15 @@
+.full-width {
+    width: 100%;
+}
+
+.table-row {
+    cursor: pointer;
+}
+
+.close-tab {
+    cursor: pointer;
+    color: red;
+    position: absolute;
+    right: 10px;
+    top: 16px;
+}
